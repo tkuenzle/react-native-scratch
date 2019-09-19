@@ -11,7 +11,7 @@ import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 import java.util.ArrayList;
 import android.graphics.Rect;
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
